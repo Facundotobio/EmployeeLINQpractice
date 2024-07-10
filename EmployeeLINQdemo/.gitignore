@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.csproj.user
+*.vcxproj.user
+*.code-workspace
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+# Visual Studio 2019
+.vscode/
+.vscode/settings.json
+
+# Visual Studio Code
+.vscode/
+
+# Otros archivos generados
+bin/
+obj/
